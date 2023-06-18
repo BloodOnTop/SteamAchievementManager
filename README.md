@@ -16,3 +16,4 @@ There are some changes to the code since the last closed-source release:
 ## Attribution
 
 Most (if not all) icons are from the [Fugue Icons](http://p.yusukekamiyamane.com/) set.x
+
